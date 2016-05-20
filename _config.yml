@@ -1,0 +1,14 @@
+layout_spectrum: 0.8435007024090737
+typography_spectrum: 0.3658423584420234
+color:
+  brandStrength: 0.1373732031788677
+  lightness: 0.6945936526171863
+  saturation: 0.3166013651061803
+  rhythmicContrast: 0.2971718751359731
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Go.Pros
