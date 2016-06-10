@@ -1,15 +1,15 @@
-layout_spectrum: 0.8435007024090737
-typography_spectrum: 0.3658423584420234
+layout_spectrum: 0.10996816051192582
+typography_spectrum: 0.5437273245770484
 color:
-  brandStrength: 0.1373732031788677
-  lightness: 0.6945936526171863
-  saturation: 0.3166013651061803
-  rhythmicContrast: 0.2971718751359731
+  brandStrength: 0.5024650716222823
+  lightness: 0.5367361148819327
+  saturation: 0.3423698942642659
+  rhythmicContrast: 0.9246154327411205
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: Go.Pros
 title: grow your business right on social media
