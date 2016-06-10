@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-06-10T22:14:41.245Z'
-datePublished: '2016-06-10T22:16:52.676Z'
+dateModified: '2016-06-10T22:25:24.455Z'
+datePublished: '2016-06-10T22:25:24.596Z'
 title: How to Fix your Facebook Ad (in 5 Minutes or Less).
 author: []
-starred: false
 sourcePath: _posts/2016-06-10-how-to-fix-your-facebook-ad-in-5-minutes-or-less.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
